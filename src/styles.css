@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@400;700&display=swap");
+.App {
+  font-family: "Yanone Kaffeesatz", sans-serif;
+  text-align: center;
+}
+
+.list_nonbullet {
+  list-style: none;
+}
+
+.list_item_inline {
+  display: inline;
+  margin-left: "2rem";
+  font-size: large;
+}
+body {
+  background-color: whitesmoke;
+}
+
+button {
+  cursor: pointer;
+  border-radius: 3rem;
+  padding: 0.5rem 1rem;
+  margin: 1rem;
+}
+
+.footer {
+  margin-top: 8rem;
+  background-color: blanchedalmond;
+  padding: 2rem 0rem;
+  text-align: center;
+  color: black;
+  border-top-right-radius: 1rem;
+}
+.addSpace {
+  margin-top: 3rem;
+  padding: 0.5rem;
+}
+.listitem {
+  padding: 0.5rem;
+  font-size: 1rem;
+}
